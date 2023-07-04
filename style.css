@@ -1,0 +1,28 @@
+body {
+  background: #f8e8a6;
+}
+
+h1,
+p,
+div {
+  text-align: center;
+}
+.home {
+  margin: 0 10px;
+  color: green;
+}
+.photo {
+  margin: 0 10px;
+  color: green;
+}
+.contact {
+  margin: 0 10px;
+  color: green;
+}
+.croissant {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: block;
+  margin-left: 159.667px;
+  margin-right: 159.667px;
+}
